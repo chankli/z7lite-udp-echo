@@ -1,0 +1,8 @@
+work/
+transcript
+vsim.wlf
+synth_check.log
+udp_axis_complete_util.rpt
+vivado.jou
+vivado.log
+.Xil/

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ModelSim/Questa
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+
+# Vivado / build outputs
+fpga/build.log
+fpga/fpga/*.xpr
+fpga/fpga/*.jou
+fpga/fpga/*.log
+fpga/fpga/*.str
+fpga/fpga/*.bit
+fpga/fpga/*.ltx
+fpga/fpga/*.dcp
+fpga/fpga/*.rpt
+fpga/fpga/*.pb
+fpga/fpga/*.rpx
+fpga/fpga/*.xml
+fpga/fpga/*.html
+fpga/fpga/*.wdb
+fpga/fpga/*.vdi
+fpga/fpga/*.csv
+fpga/fpga/*.backup.jou
+fpga/fpga/*.backup.log
+fpga/fpga/*.runs/
+fpga/fpga/*.cache/
+fpga/fpga/*.gen/
+fpga/fpga/*.hw/
+fpga/fpga/*.sim/
+fpga/fpga/*.srcs/
+fpga/fpga/.Xil/
+fpga/fpga/.ip_user_files/
+fpga/fpga/rev/
+fpga/fpga/defines.v
+fpga/fpga/create_project.tcl
+fpga/fpga/update_config.tcl
+fpga/fpga/run_synth.tcl
+fpga/fpga/run_impl.tcl
+fpga/fpga/generate_bit.tcl
+fpga/fpga/program.tcl
